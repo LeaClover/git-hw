@@ -5,6 +5,8 @@
 // 34, 5 -> не кратно, остаток 4 
 // 16, 4 -> кратно
 
+// возможно нужно еще поработать на проектом)
+
 namespace HelloWorld {
     class Program {
         static void Main(string[] args) {
