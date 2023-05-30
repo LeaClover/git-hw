@@ -20,6 +20,7 @@ namespace HelloWorld {
                 Console.WriteLine($"Не кратно, остаток {balance}!");
             }
             Console.WriteLine("Отличная работа! Продолжай!!!");
+            // добавить что то новое!
         }
     }
 }
