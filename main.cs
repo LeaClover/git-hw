@@ -19,6 +19,7 @@ namespace HelloWorld {
                 int balance = number1%number2;
                 Console.WriteLine($"Не кратно, остаток {balance}!");
             }
+            Console.WriteLine("Отличная работа! Продолжай!!!");
         }
     }
 }
