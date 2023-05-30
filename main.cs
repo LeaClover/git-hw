@@ -16,8 +16,8 @@ namespace HelloWorld {
                 Console.WriteLine($"Кратно, остатка нет!");
             }
             else {
-                int bal = number1%number2;
-                Console.WriteLine($"Не кратно, остаток {bal}!");
+                int balance = number1%number2;
+                Console.WriteLine($"Не кратно, остаток {balance}!");
             }
         }
     }
